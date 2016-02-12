@@ -1,0 +1,11 @@
+{
+  "name"         : "SimpleNodeSserver",
+  "version"      : "0.0.0",
+  "description"  : "Simple Node Server.",
+  "main"         : "server.js",
+  "author"       : "Farzad",
+  "dependencies" : {
+    "express"    : "4.13.4",
+    "body-parser": "1.15.0"
+    }
+}
